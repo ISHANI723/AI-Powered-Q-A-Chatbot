@@ -16,7 +16,10 @@ This project is a Question-Answering (QA) chatbot that lets users upload PDFs (l
 4. Gradio 🎨
    A lightweight framework to build web UIs for ML apps.
 
-5. PyPDFLoader 📄
+5. Streamlit 🎛️
+   A Python framework that makes it super easy to build interactive web apps for data science and machine learning projects.
+
+7. PyPDFLoader 📄
    Loads and splits PDF documents into text chunks for embedding.
 
 # Workflow:
@@ -32,4 +35,4 @@ This project is a Question-Answering (QA) chatbot that lets users upload PDFs (l
 
     -> HuggingFacePipeline generates the final answer.
 
-5. Answer is displayed in the Gradio chat UI.
+5. Answer is displayed in the Gradio chat UI in Streamlit.
