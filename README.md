@@ -1,7 +1,7 @@
 # Project Title: AI-Powered-Q/A-Chatbot
 
 # Description:
-This project is a Question-Answering (QA) chatbot that lets users upload PDFs (like lecture notes, research papers, or Wikipedia dumps) and ask questions. The chatbot retrieves the most relevant parts of the document and generates accurate answers using Hugging Face Transformers and LangChain.
+This project is a Question-Answering (QA) chatbot that lets users upload PDFs (like lecture notes, research papers, or Wikipedia dumps) and ask questions using Natural Language Processing(NLP). The chatbot retrieves the most relevant parts of the document and generates accurate answers using Hugging Face Transformers and LangChain.
 
 # Technologies:
 1. LangChain 🦜
