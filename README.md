@@ -29,7 +29,7 @@ This project is a Question-Answering (QA) chatbot that lets users upload PDFs (l
 
 3. Embeddings are stored in FAISS for efficient retrieval.
 
-4. When you ask a question:
+4. User asks a question and chatbot answers them.
 
     -> Relevant chunks are retrieved from FAISS.
 
